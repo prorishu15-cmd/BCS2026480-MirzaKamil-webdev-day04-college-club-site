@@ -44,6 +44,11 @@ campus-connect/
 ### About Page
 ![About](screenshots/about.png)
 
-### Blog Page
-![Blog](screenshots/blog.png)
+### Contact Page
+![Contact](screenshots/contact.png)
+
+##  Registration page
+![Registration](screenshots/reg.png)
+
+
 **Created by:** Mirza Kamil Beg
